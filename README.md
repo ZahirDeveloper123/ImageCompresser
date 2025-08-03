@@ -1,1 +1,1 @@
-# ImageCompresser
+# Tool
